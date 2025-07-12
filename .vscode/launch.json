@@ -1,0 +1,12 @@
+{
+  "configurations": [
+    {
+      "name": "Dart Debug",
+      "type": "dart",
+      "request": "launch",
+      "program": "bin/serverpod_ts.dart",
+      "args": [],
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
